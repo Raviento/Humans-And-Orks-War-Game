@@ -1,0 +1,159 @@
+--------------------SAVAS BASLADI--------------------
+1.Adım İnsanlar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Piyadeler: 900 birim x 30 saldırı gücü = 27000 -> etkilerle x 27000 = 32400
+Okcular: 500 birim x 40 saldırı gücü = 20000 -> etkilerle x 20000 = 24000
+Kusatma Makineleri: 3 birim x 100 saldırı gücü = 300 -> etkilerle x 300 = 360
+-Toplam Saldırı Gücü = 32400 + 24000 + 0 + 360 = 56760-
+
+Savunma Gücü Hesaplaması (Ork Lejyonu):
+Ork Dövüşçüleri: 800 birim x 25 savunma gücü = 20000 -> etkilerle x 20000 = 24800
+Mızrakçılar: 600 birim x 20 savunma gücü = 12000 -> etkilerle x 12000 = 12000
+Ork Dövüşçüleri: 3 birim x 40 savunma gücü = 120 -> etkilerle x 120 = 120
+-Toplam Savunma Gücü = 24800 + 12000 + 0 + 120 = 36920-
+
+Net Hasar: 56760 x 0.350 = 19840
+Ork Dövüşçüleri: 800 / 1403 = 0.570207 -> 19840 x 0.570 = 11313 hasar yedi. Kayıp: 11313 / 100 = 113 birim öldü
+Mızrakçılar: 600 / 1403 = 0.427655 -> 19840 x 0.428 = 8485 hasar yedi. Kayıp: 8485 / 90 = 94 birim öldü
+Troller: 3 / 1403 = 0.002138 -> 19840 x 0.002 = 42 hasar yedi. Kayıp: 42 / 200 = 0 birim öldü
+
+2.Adım Orklar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Ork Dövüşçüleri: 686 birim x 35 saldırı gücü = 24010 -> etkilerle x 24010 = 24010
+Mızrakçılar: 505 birim x 45 saldırı gücü = 22725 -> etkilerle x 22725 = 22725
+Troller: 2 birim x 70 saldırı gücü = 140 -> etkilerle x 140 = 140
+-Toplam Saldırı Gücü = 24010 + 22725 + 0 + 140 = 46875-
+
+Savunma Gücü Hesaplaması (İnsan İmparatorluğu):
+Piyadeler: 900 birim x 40 savunma gücü = 36000 -> etkilerle x 36000 = 36000
+Okçular: 500 birim x 20 savunma gücü = 10000 -> etkilerle x 10000 = 10000
+Kuşatma Makineleri: 3 birim x 50 savunma gücü = 150 -> etkilerle x 150 = 150
+-Toplam Savunma Gücü = 36000 + 10000 + 0 + 150 = 46150-
+
+Net Hasar: 46875 x 0.015 = 725
+Piyadeler: 900 / 1403 = 0.641483 -> 725 x 0.641 = 465 hasar yedi. Kayıp: 465 / 100 = 5 birim öldü
+Okçular: 500 / 1403 = 0.356379 -> 725 x 0.356 = 258 hasar yedi. Kayıp: 258 / 80 = 3 birim öldü
+Kuşatma Makineleri: 3 / 1403 = 0.002138 -> 725 x 0.002 = 2 hasar yedi. Kayıp: 2 / 150 = 0 birim öldü
+
+2.Adım İnsanlar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Piyadeler: 895 birim x 30 saldırı gücü = 26850 -> etkilerle x 26850 = 32220
+Okcular: 496 birim x 40 saldırı gücü = 19840 -> etkilerle x 19840 = 23808
+Kusatma Makineleri: 2 birim x 100 saldırı gücü = 200 -> etkilerle x 200 = 240
+-Toplam Saldırı Gücü = 32220 + 23808 + 0 + 240 = 56268-
+
+Savunma Gücü Hesaplaması (Ork Lejyonu):
+Ork Dövüşçüleri: 686 birim x 25 savunma gücü = 17150 -> etkilerle x 17150 = 21266
+Mızrakçılar: 505 birim x 20 savunma gücü = 10100 -> etkilerle x 10100 = 10100
+Ork Dövüşçüleri: 2 birim x 40 savunma gücü = 80 -> etkilerle x 80 = 80
+-Toplam Savunma Gücü = 21266 + 10100 + 0 + 80 = 31446-
+
+Net Hasar: 56268 x 0.441 = 24822
+Ork Dövüşçüleri: 686 / 1193 = 0.575021 -> 24822 x 0.575 = 14273 hasar yedi. Kayıp: 14273 / 100 = 143 birim öldü
+Mızrakçılar: 505 / 1193 = 0.423303 -> 24822 x 0.423 = 10507 hasar yedi. Kayıp: 10507 / 90 = 117 birim öldü
+Troller: 2 / 1193 = 0.001676 -> 24822 x 0.002 = 42 hasar yedi. Kayıp: 42 / 200 = 0 birim öldü
+
+3.Adım Orklar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Ork Dövüşçüleri: 543 birim x 35 saldırı gücü = 19005 -> etkilerle x 19005 = 19005
+Mızrakçılar: 388 birim x 45 saldırı gücü = 17460 -> etkilerle x 17460 = 17460
+Troller: 1 birim x 70 saldırı gücü = 70 -> etkilerle x 70 = 70
+-Toplam Saldırı Gücü = 19005 + 17460 + 0 + 70 = 36535-
+
+Savunma Gücü Hesaplaması (İnsan İmparatorluğu):
+Piyadeler: 895 birim x 40 savunma gücü = 35800 -> etkilerle x 35800 = 35800
+Okçular: 496 birim x 20 savunma gücü = 9920 -> etkilerle x 9920 = 9920
+Kuşatma Makineleri: 2 birim x 50 savunma gücü = 100 -> etkilerle x 100 = 100
+-Toplam Savunma Gücü = 35800 + 9920 + 0 + 100 = 45820-
+
+Net Hasar: 36535 x -0.254 = -9285
+Piyadeler: 895 / 1393 = 0.642498 -> 0 x 0.642 = 0 hasar yedi. Kayıp: 0 / 100 = 0 birim öldü
+Okçular: 496 / 1393 = 0.356066 -> 0 x 0.356 = 0 hasar yedi. Kayıp: 0 / 80 = 0 birim öldü
+Kuşatma Makineleri: 2 / 1393 = 0.001436 -> 0 x 0.001 = 0 hasar yedi. Kayıp: 0 / 150 = 0 birim öldü
+
+3.Adım İnsanlar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Piyadeler: 895 birim x 30 saldırı gücü = 26850 -> etkilerle x 26850 = 32220
+Okcular: 496 birim x 40 saldırı gücü = 19840 -> etkilerle x 19840 = 23808
+Kusatma Makineleri: 2 birim x 100 saldırı gücü = 200 -> etkilerle x 200 = 240
+-Toplam Saldırı Gücü = 32220 + 23808 + 0 + 240 = 56268-
+
+Savunma Gücü Hesaplaması (Ork Lejyonu):
+Ork Dövüşçüleri: 543 birim x 25 savunma gücü = 13575 -> etkilerle x 13575 = 16833
+Mızrakçılar: 388 birim x 20 savunma gücü = 7760 -> etkilerle x 7760 = 7760
+Ork Dövüşçüleri: 1 birim x 40 savunma gücü = 40 -> etkilerle x 40 = 40
+-Toplam Savunma Gücü = 16833 + 7760 + 0 + 40 = 24633-
+
+Net Hasar: 56268 x 0.562 = 31635
+Ork Dövüşçüleri: 543 / 932 = 0.582618 -> 31635 x 0.583 = 18431 hasar yedi. Kayıp: 18431 / 100 = 184 birim öldü
+Mızrakçılar: 388 / 932 = 0.416309 -> 31635 x 0.416 = 13170 hasar yedi. Kayıp: 13170 / 90 = 146 birim öldü
+Troller: 1 / 932 = 0.001073 -> 31635 x 0.001 = 34 hasar yedi. Kayıp: 34 / 200 = 0 birim öldü
+
+4.Adım Orklar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Ork Dövüşçüleri: 358 birim x 35 saldırı gücü = 12530 -> etkilerle x 12530 = 12530
+Mızrakçılar: 241 birim x 45 saldırı gücü = 10845 -> etkilerle x 10845 = 10845
+-Toplam Saldırı Gücü = 12530 + 10845 + 0 + 0 = 23375-
+
+Savunma Gücü Hesaplaması (İnsan İmparatorluğu):
+Piyadeler: 895 birim x 40 savunma gücü = 35800 -> etkilerle x 35800 = 35800
+Okçular: 496 birim x 20 savunma gücü = 9920 -> etkilerle x 9920 = 9920
+Kuşatma Makineleri: 2 birim x 50 savunma gücü = 100 -> etkilerle x 100 = 100
+-Toplam Savunma Gücü = 35800 + 9920 + 0 + 100 = 45820-
+
+Net Hasar: 23375 x -0.960 = -22445
+Piyadeler: 895 / 1393 = 0.642498 -> 0 x 0.642 = 0 hasar yedi. Kayıp: 0 / 100 = 0 birim öldü
+Okçular: 496 / 1393 = 0.356066 -> 0 x 0.356 = 0 hasar yedi. Kayıp: 0 / 80 = 0 birim öldü
+Kuşatma Makineleri: 2 / 1393 = 0.001436 -> 0 x 0.001 = 0 hasar yedi. Kayıp: 0 / 150 = 0 birim öldü
+
+4.Adım İnsanlar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Piyadeler: 895 birim x 30 saldırı gücü = 26850 -> etkilerle x 26850 = 32220
+Okcular: 496 birim x 40 saldırı gücü = 19840 -> etkilerle x 19840 = 23808
+Kusatma Makineleri: 2 birim x 100 saldırı gücü = 200 -> etkilerle x 200 = 240
+-Toplam Saldırı Gücü = 32220 + 23808 + 0 + 240 = 56268-
+
+Savunma Gücü Hesaplaması (Ork Lejyonu):
+Ork Dövüşçüleri: 358 birim x 25 savunma gücü = 8950 -> etkilerle x 8950 = 11098
+Mızrakçılar: 241 birim x 20 savunma gücü = 4820 -> etkilerle x 4820 = 4820
+-Toplam Savunma Gücü = 11098 + 4820 + 0 + 0 = 15918-
+
+Net Hasar: 56268 x 0.717 = 40350
+Ork Dövüşçüleri: 358 / 599 = 0.597663 -> 40350 x 0.598 = 24116 hasar yedi. Kayıp: 24116 / 100 = 241 birim öldü
+Mızrakçılar: 241 / 599 = 0.402337 -> 40350 x 0.402 = 16234 hasar yedi. Kayıp: 16234 / 90 = 180 birim öldü
+
+5.Adım Orklar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Ork Dövüşçüleri: 116 birim x 35 saldırı gücü = 4060 -> etkilerle x 4060 = 3596
+Mızrakçılar: 60 birim x 45 saldırı gücü = 2700 -> etkilerle x 2700 = 2400
+-Toplam Saldırı Gücü = 3596 + 2400 + 0 + 0 = 5996-
+
+Savunma Gücü Hesaplaması (İnsan İmparatorluğu):
+Piyadeler: 895 birim x 40 savunma gücü = 35800 -> etkilerle x 35800 = 32220
+Okçular: 496 birim x 20 savunma gücü = 9920 -> etkilerle x 9920 = 8928
+Kuşatma Makineleri: 2 birim x 50 savunma gücü = 100 -> etkilerle x 100 = 90
+-Toplam Savunma Gücü = 32220 + 8928 + 0 + 90 = 41238-
+
+Net Hasar: 5996 x -5.878 = -35242
+Piyadeler: 895 / 1393 = 0.642498 -> 0 x 0.642 = 0 hasar yedi. Kayıp: 0 / 100 = 0 birim öldü
+Okçular: 496 / 1393 = 0.356066 -> 0 x 0.356 = 0 hasar yedi. Kayıp: 0 / 80 = 0 birim öldü
+Kuşatma Makineleri: 2 / 1393 = 0.001436 -> 0 x 0.001 = 0 hasar yedi. Kayıp: 0 / 150 = 0 birim öldü
+
+5.Adım İnsanlar Saldırıyor: 
+Saldırı Gücü Hesaplaması (Araştırma ve Canavar Etkileri Dahil):
+Piyadeler: 895 birim x 30 saldırı gücü = 26850 -> etkilerle x 26850 = 25060
+Okcular: 496 birim x 40 saldırı gücü = 19840 -> etkilerle x 19840 = 18848
+Kusatma Makineleri: 2 birim x 100 saldırı gücü = 200 -> etkilerle x 200 = 194
+-Toplam Saldırı Gücü = 25060 + 18848 + 0 + 194 = 44102-
+
+Savunma Gücü Hesaplaması (Ork Lejyonu):
+Ork Dövüşçüleri: 116 birim x 25 savunma gücü = 2900 -> etkilerle x 2900 = 2784
+Mızrakçılar: 60 birim x 20 savunma gücü = 1200 -> etkilerle x 1200 = 960
+-Toplam Savunma Gücü = 2784 + 960 + 0 + 0 = 3744-
+
+Net Hasar: 44102 x 0.915 = 40358
+Ork Dövüşçüleri: 116 / 176 = 0.659091 -> 40358 x 0.659 = 26600 hasar yedi. Kayıp: 26600 / 100 = 266 birim öldü
+Mızrakçılar: 60 / 176 = 0.340909 -> 40358 x 0.341 = 13758 hasar yedi. Kayıp: 13758 / 90 = 153 birim öldü
+
+
+- İNSANLAR KAZANDI ORKLAR KAYBETTİ! 
